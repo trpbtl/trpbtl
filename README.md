@@ -31,7 +31,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
- [![Follow on me on LinkedIn!](https://img.shields.io/badge/Follow%20on%20LinkedIn!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=eyram-makafui-awoye)
+ [![Follow on me on LinkedIn!](https://img.shields.io/badge/Follow%20me%20on%20LinkedIn!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=eyram-makafui-awoye)
 
 
 If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺
