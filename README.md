@@ -35,6 +35,19 @@
 
 
 If you think I deserve a little pick-me-up, why not treat me to a cup of coffee? :)
+<a href="https://www.buymeacoffee.com/trpbtl" target="_blank" style="
+  display: inline-block;
+  background-color: #ff5f5f;
+  color: white;
+  font-family: Garamond, serif;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 16px;
+">
+  ☕ Buy Me a Coffee
+</a>
+
 
 <a href="https://www.buymeacoffee.com/trpbtl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
