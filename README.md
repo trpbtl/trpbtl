@@ -34,7 +34,7 @@
  [![Follow on me on LinkedIn!](https://img.shields.io/badge/Follow%20me%20on%20LinkedIn!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=eyram-makafui-awoye)
 
 
-If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺
+If you think I deserve a little pick-me-up, why not treat me to a cup of coffee? :)
 
 <a href="https://www.buymeacoffee.com/trpbtl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
