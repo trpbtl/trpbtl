@@ -39,20 +39,6 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee?
 
 <a href="https://www.buymeacoffee.com/trpbtl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<a href="https://www.buymeacoffee.com/trpbtl" target="_blank" style="
-  display: inline-block;
-  background-color: #ff5f5f;
-  color: white;
-  font-family: Garamond, serif;
-  font-size: 18px;
-  padding: 10px 20px;
-  border-radius: 8px;
-  text-decoration: none;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.2);
-">
-  ☕ Buy me a coffee
-</a>
-
 
 <h3>My GitHub contributions summary</h3>
 
