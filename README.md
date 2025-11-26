@@ -25,8 +25,6 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee?
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=trpbtl&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true&v=1)](https://git.io/streak-stats)
 
-![Eyram's GitHub stats](https://github-readme-stats.vercel.app/api?username=trpbtl&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&v=1)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trpbtl/trpbtl/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trpbtl/trpbtl/output/github-contribution-grid-snake.svg">
