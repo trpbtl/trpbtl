@@ -6,12 +6,13 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,nestjs,graphql,mongodb,php,mysql,bootstrap,tailwind,docker,git,vscode,xd,photoshop,webpack,d3" />
-  <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle APEX" width="48" height="48" />
 </p>
 
 
+<p align = "center">
  [![Follow on me on LinkedIn!](https://img.shields.io/badge/Follow%20me%20on%20LinkedIn!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=eyram-makafui-awoye)
-
+</p>
 
 If you think I deserve a little pick-me-up, why not treat me to a cup of coffee? :)
 
