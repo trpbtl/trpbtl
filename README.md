@@ -39,10 +39,9 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee?
 
 <a href="https://www.buymeacoffee.com/trpbtl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+<h3>My GitHub Contributions Summary</h3>
 
-<h3>My GitHub contributions summary</h3>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your_username&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=trpbtl&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
 ![Eyram's GitHub stats](https://github-readme-stats.vercel.app/api?username=trpbtl&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
