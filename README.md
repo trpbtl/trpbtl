@@ -4,16 +4,15 @@
 
 <h3>When I make cool stuff (or code) i use, </h3>
 
-
+## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,...,docker,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,nestjs,graphql,mongodb,php,mysql,bootstrap,tailwind,docker,git,vscode,xd,photoshop,webpack,d3" />
   <img src="https://logo.svgcdn.com/logos/oracle.svg" alt="Oracle APEX" width="48" height="48" />
 </p>
 
 
-
-<p align = "center">
+<p align = "center>
  [![Follow on me on LinkedIn!](https://img.shields.io/badge/Follow%20me%20on%20LinkedIn!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=eyram-makafui-awoye)
 </p>
 
