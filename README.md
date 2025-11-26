@@ -3,7 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=trpbtl&color=fb4362)
 
 <h3>When I make cool stuff (or code) i use, </h3>
-## 🚀 Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,nestjs,graphql,mongodb,php,mysql,bootstrap,tailwind,docker,git,vscode,xd,photoshop,webpack,d3" />
