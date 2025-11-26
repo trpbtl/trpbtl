@@ -4,10 +4,13 @@
 
 <h3>When I make cool stuff (or code) i use, </h3>
 
+
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,nestjs,graphql,mongodb,php,mysql,bootstrap,tailwind,docker,git,vscode,xd,photoshop,webpack,d3" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle APEX" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,...,docker,git" />
+  <img src="https://logo.svgcdn.com/logos/oracle.svg" alt="Oracle APEX" width="48" height="48" />
 </p>
+
 
 
 <p align = "center">
